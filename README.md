@@ -19,10 +19,14 @@ Using the basic Python `def` contructor we created a function known as "Guess Ag
 3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the users scores.
 
 **For loop**
-
-We create a for loop that will run for 3 iterations until and select a number form the sequence of 1 to 10.   
+We create a for loop that will run for 3 iterations until and select a number form the sequence of 1 to 10 for what the computer will select for its guesses.
 We then create an empty list called `player2` to store the computer selections.  
-We then use the `random` package to randonly select these 3 values from our list `plays`.
+We then use the `random` package to randomly select these 3 values from our list `plays`.    
+These selections are then appended into the list `player2`.
+Finally we get the average of these plays and store them in `player2_avg`.  
+
+This is then replicated with a completely random score for the computer that we will compare player1 and player 2 to. 
+
 
 
   
