@@ -1,5 +1,5 @@
 # Guess Again
-Using basic python functionality to create a basic games called "Guess Again". In this made up game, 3 random  numbers will be selected from a list from 1:10. We will then get the average of those numbers. Once we have this average we allow the program to select 3 numbers and the player does so as well: Points will be given out as follows:
+Using basic python functionality to create a basic games called "Guess Again". In this made up game, 3 random  numbers will be selected from a list from 1 to 10. We will then get the average of those numbers. Once we have this average we allow the program to select 3 numbers and the player does so as well: Points will be given out as follows:
 
 2 points - guessing the average perfectly   
 1 point - guessing within 1.5 of the random average  
@@ -14,5 +14,8 @@ In this notebook project we will aim to:
 ## GUESS AGAIN FUNCTION  
 Using the basic Python `def` contructor we created a function known as "Guess Again".
 
-This function has the arguments: play1, play2, play3 that represnt the input the user enters.
+1) This function has the arguments: play1, play2, play3 that represents the input the user enters.
+2) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the users scores.
+3) 
+
   
