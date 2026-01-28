@@ -10,4 +10,6 @@ In this notebook project we will aim to:
 
 - Create the game "Guess Again" by making a basic Python function.
 - Explore the use of new packages like `random`.
+
+## GUESS AGAIN FUNCTION
   
