@@ -12,5 +12,7 @@ In this notebook project we will aim to:
 - Explore the use of new packages like `random`.
 
 ## GUESS AGAIN FUNCTION  
-Using the basic Python `def` contructor we created a function known as "Guess Again"
+Using the basic Python `def` contructor we created a function known as "Guess Again".
+
+This function has the arguments: play1, play2, play3 that represnt the input the user enters.
   
