@@ -7,7 +7,6 @@ Using basic python functionality to create a basic games called "Guess Again". I
 0 points - guessing outside 2.5 of the avergae 
 
 In this notebook project we will aim to: 
-
 - Create the game "Guess Again" by making a basic Python function.
 - Explore the use of new packages like `random`.
 
