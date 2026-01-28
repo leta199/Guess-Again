@@ -15,7 +15,8 @@ In this notebook project we will aim to:
 Using the basic Python `def` contructor we created a function known as "Guess Again".
 
 1) This function has the arguments: play1, play2, play3 that represents the input the user enters.
-2) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the users scores.
-3) 
+2) We then define our total possible play which are the numbers from the sequence 1 to 10. 
+3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the users scores.
+4) We then use the `random` package to randonly select 
 
   
