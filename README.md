@@ -11,5 +11,6 @@ In this notebook project we will aim to:
 - Create the game "Guess Again" by making a basic Python function.
 - Explore the use of new packages like `random`.
 
-## GUESS AGAIN FUNCTION
+## GUESS AGAIN FUNCTION  
+Using the basic Python `def` contructor we created a function known as "Guess Again"
   
