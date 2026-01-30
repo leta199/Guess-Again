@@ -39,9 +39,9 @@ It follows the criteria above and uses `and` and `or` logical operators.
 We then finish the function up using format strings to print out the scores for both player 1 and 2. 
 
  ## PROJECT STRUCTURE      
-|[Simulation- Random Walks](https://github.com/leta199/Simulation-Random-Walks)  
-|├── [Randomwalk R script](https://github.com/leta199/Simulation-Random-Walks/blob/main/Randomwalk.r)   
-|└──[Random latex](https://github.com/leta199/Simulation-Random-Walks/blob/main/Random_Walk_Gamblers_Ruin.pdf)
+|[Guess Again](https://github.com/leta199/Guess-Again)  
+|├── [game code](https://github.com/leta199/Guess-Again/tree/main/game_code)   
+|└──[kernel](https://github.com/leta199/Guess-Again/tree/main/kernel)
   
 ## AUTHORS   
 [leta199](https://github.com/leta199)  
