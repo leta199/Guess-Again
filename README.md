@@ -26,6 +26,11 @@ Finally we get the average of these plays and store them in `player2_avg`.
 
 This is then replicated with a completely random score for the computer that we will compare player1 and player 2 to. 
 
+**Game winning Criterion** 
+
+We then define what the criteria for each player being awarded a score is.   
+We use 
+
 
 
   
