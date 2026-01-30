@@ -29,7 +29,14 @@ This is then replicated with a completely random score for the computer that we 
 **Game winning Criterion** 
 
 We then define what the criteria for each player being awarded a score is.   
-We use 
+We use if statements for each player to determine their points. 
+It follows the criteria above and uses `and` and `or` logical operators. 
+
+2 points - guessing the average perfectly   
+1 point - guessing within 1.5 of the random average  
+0.5 points - guessing within 2.5 of the average   
+0 points - guessing outside 2.5 of the average
+
 
 
 
