@@ -36,6 +36,8 @@ It follows the criteria above and uses `and` and `or` logical operators.
 0.5 points - guessing within 2.5 of the average   
 0 points - guessing outside 2.5 of the average
 
+We then finish the function up using format strings to print out the scores for both player 1 and 2. 
+
 
 
 
