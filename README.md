@@ -47,7 +47,12 @@ We then finish the function up using format strings to print out the scores for 
 |└──[kernel](https://github.com/leta199/Guess-Again/tree/main/kernel)   
 │  
 |└──[README](https://github.com/leta199/Guess-Again/blob/main/README.md)
+
   
+## WHAT DOES THE FUTURE HOLD?   
+1) Use the `input()` function to make the game more interactive and fun to work with 
+2) Find new ways to make if, elif and else statements smoother and more efficient 
+
 ## AUTHORS   
 [leta199](https://github.com/leta199)  
 
