@@ -16,10 +16,10 @@ Using the basic Python `def` contructor we created a function known as "Guess Ag
 
 1) This function has the arguments: play1, play2, play3 that represents the input the user enters.
 2) We then define our total possible play which are the numbers from the sequence 1 to 10 in the list `plays`.
-3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the end user entered plays.
+3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the end user-entered plays (guesses).
 
 **For loop**    
-We create a for loop that will run for 3 iterations until and select a number form the sequence of 1 to 10 for what the computer will select for its guesses.
+We create a for loop that will run for 3 iterations and select a number from the sequence of 1 to 10 for what the computer will select for its guesses.
 We then create an empty list called `player2` to store the computer selections.  
 We then use the `random` package to randomly select these 3 values from our list `plays`.    
 These selections are then appended into the list `player2`.
