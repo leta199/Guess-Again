@@ -1,5 +1,5 @@
 # Guess Again
-Using basic python functionality to create a basic games called "Guess Again". In this made up game, 3 random  numbers will be selected from a list from 1 to 10. We will then get the average of those numbers. Once we have this average we allow the program (player2) to select 3 numbers and the end user (player1) to do so as well: Points will be given out as follows:
+Using basic python functionality to create a basic games called "Guess Again". In this made up game, 3 random  numbers will be selected from a list from 1 to 10. We will then get the average of those numbers. Once we have this average we allow the program (player2) to "guess" 3 numbers and the end user (player1) to do so as well: Points will be given out as follows:
 
 2 points - guessing the average perfectly.  
 1 point - guessing within 1.5 of the random average.  
@@ -19,7 +19,7 @@ Using the basic Python `def` contructor we created a function known as "Guess Ag
 3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the avergae score of the end user-entered plays (guesses).
 
 **For loop**    
-We create a for loop that will run for 3 iterations and select a number from the sequence of 1 to 10 for what the computer will select for its guesses.
+We create a for loop that will run for 3 iterations and select a number from the sequence of 1 to 10 for what we will comparre player1 and player2's guesses to.
 We then create an empty list called `player2` to store the computer selections.  
 We then use the `random` package to randomly select these 3 values from our list `plays`.    
 These selections are then appended into the list `player2`.
