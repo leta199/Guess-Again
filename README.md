@@ -42,9 +42,9 @@ We then finish the function up using format strings to print out the scores for 
 |[Guess Again](https://github.com/leta199/Guess-Again)  
 |├── [game code](https://github.com/leta199/Guess-Again/tree/main/game_code)     
 │  └──[Guess Again ipynb](https://github.com/leta199/Guess-Again/blob/main/game_code/Guess_Again.ipynb)    
-│
+│  
 |└──[kernel](https://github.com/leta199/Guess-Again/tree/main/kernel)   
-│
+│  
 |└──[README](https://github.com/leta199/Guess-Again/blob/main/README.md)
   
 ## AUTHORS   
