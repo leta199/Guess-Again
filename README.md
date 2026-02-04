@@ -8,7 +8,7 @@ Using basic python functionality to create a basic games called "Guess Again". I
 
 In this notebook project we will aim to: 
 - Create the game "Guess Again" by making a basic Python function.
-- Explore the use of new packages like `random`.
+- Explore the use of new packages like `random` and the `input` function.
 - Explore alternative methods of implementing if/ elif and else statements.
 
 ## GUESS AGAIN FUNCTION  
