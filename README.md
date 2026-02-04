@@ -14,7 +14,7 @@ In this notebook project, we will aim to:
 ## GUESS AGAIN FUNCTION  
 Using the basic Python `def` contructor we created a function known as "Guess Again".
 
-1) This function has the arguments: play1, play2, play3 that represents the input the user enters.
+1) This function has the arguments: play1, play2, play3 that represents the input the user enters. This is done using the input fucntion 
 2) We then define our total possible play which are the numbers from the sequence 1 to 10 in the list `plays`.
 3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the average score of the end user-entered plays (guesses).
 
@@ -39,7 +39,8 @@ It follows the criteria above and uses `and` and `or` logical operators.
 
 We then finish the function up using format strings to print out the scores for both player 1 and 2. 
 
- ## PROJECT STRUCTURE      
+
+## PROJECT STRUCTURE      
 |[Guess Again](https://github.com/leta199/Guess-Again)  
 |├── [game code](https://github.com/leta199/Guess-Again/tree/main/game_code)     
 │  └──[Guess Again ipynb](https://github.com/leta199/Guess-Again/blob/main/game_code/Guess_Again.ipynb)    
