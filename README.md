@@ -14,7 +14,7 @@ In this notebook project, we will aim to:
 ## GUESS AGAIN FUNCTION  
 Using the basic Python `def` contructor we created a function known as "Guess Again".
 
-1) This function has the arguments: play1, play2, play3 that represents the input the user enters. This is done using the `input` function to make the game more interactive.
+1)  **This is done using the `input` function to make the game more interactive.**
 2) We then define our total possible play which are the numbers from the sequence 1 to 10 in the list `plays`.
 3) We then store these plays in the list `player1` and calculate its average `player1_avg` which is the average score of the end user-entered plays (guesses).
 
